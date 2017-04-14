@@ -1,0 +1,465 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Vivek\Desktop\NetworkedShooter\NetworkTest_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 48Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.406836 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 6234 -> priority: 1 
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AssignClientAuthority for Target(Clone) (UnityEngine.GameObject) owner cannot be null. Use RemoveClientAuthority() instead.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RemoveClientAuthority for Target(Clone) (UnityEngine.GameObject) has no clientAuthority owner.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPC ran
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
