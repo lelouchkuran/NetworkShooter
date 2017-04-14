@@ -1,0 +1,4 @@
+1.Click to Shoot
+2.W moves forward
+3.Smoves backward
+4. A,D to rotate
